@@ -39,4 +39,6 @@
       
     - an INNER `if-elif-else` statement
 
+- See the Dark Forest Adventure example PDF in this repo
+
 ---
